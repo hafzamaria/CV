@@ -3,7 +3,7 @@
     height: 200px;
     width: 100%;
     padding: 15px;
-    top:-150px ;
+    top:-200px ;
     margin-bottom:100px;
     border-radius: 100px 0px;
 }
@@ -30,11 +30,12 @@
   
     h1{
         text-align:right;
-        margin-right:100px;
+        margin-right:200px;
         font-size:50px ;
-        margin-top: 50px;
+        margin-top: 80px;
         text-decoration: underline;
     }
+    
     .bold{
         margin-right:70px ;
     }
